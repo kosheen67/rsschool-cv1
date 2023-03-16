@@ -9,5 +9,22 @@ I’m a nice and friendly person. I’m punctual, I work well in a team but also
 ## Skills
 * HTML (basic)
 * CSS (basic)
-* GIT
-*
+* Git
+* JavaScript (basic)
+## Code example
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert ( result );
+```
+## Experience
+RS School (stage 1 in process)
+[CSS bayan project][https://kosheen67.github.io/cssBayan/] 
+## Education
+**University:** Saratov State University, Master's Degree in Philology
+## English
+
+
