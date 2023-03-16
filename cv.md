@@ -22,7 +22,9 @@ alert ( result );
 ```
 ## Experience
 RS School (stage 1 in process)
-[CSS bayan project]("https://kosheen67.github.io/cssBayan/")
+
+* [CSS bayan project](https://kosheen67.github.io/cssBayan/ "Ссылка на проект")
+
 ## Education 
 **University:** Saratov State University, Master's Degree in Philology
 ## English
