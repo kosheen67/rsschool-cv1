@@ -26,5 +26,6 @@ RS School (stage 1 in process)
 ## Education
 **University:** Saratov State University, Master's Degree in Philology
 ## English
+C1 Advanced
 
 
